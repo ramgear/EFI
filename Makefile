@@ -93,6 +93,7 @@ VPATH     = $(SRCPATHS)
 MD 	:= mkdir
 RM 	:= rm
 VB	:= @
+ST_LINK_CLI	?= ST-LINK_CLI
 STL	:= $(ST_LINK_CLI)
 
 AFLAGS		+= -MD -MP -MF .dep/$(@F).d
