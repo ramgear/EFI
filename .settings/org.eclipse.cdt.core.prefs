@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1975797325/PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1975797325/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1975797325/PATH/value=C\:\\eclipse;C\:/Program Files/Java/jre1.8.0_45/bin/client;C\:/Program Files/Java/jre1.8.0_45/bin;C\:/Program Files/Java/jre1.8.0_45/lib/i386;C\:\\ProgramData\\Oracle\\Java\\javapath;C\:\\Program Files\\Intel\\iCLS Client\\;C\:\\windows\\system32;C\:\\windows;C\:\\windows\\System32\\Wbem;C\:\\windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C\:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C\:\\Program Files\\Intel\\WiFi\\bin\\;C\:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C\:\\Program Files\\Common Files\\Roxio Shared\\DLLShared\\;C\:\\Program Files\\Common Files\\Roxio Shared\\OEM\\12.0\\DLLShared\\;C\:\\Program Files\\Roxio 2010\\OEM\\AudioCore\\;C\:\\Program Files\\Fujitsu\\WorkplaceProtect\\System;;C\:\\adb;C\:\\CooCox\\CoIDE_V2Beta\\bin;C\:\\CooCox\\CoIDE\\gcc\\bin;C\:\\cygwin\\bin;C\:\\Program Files\\TortoiseSVN\\bin;C\:\\Program Files\\Intel\\WiFi\\bin\\;C\:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C\:\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility;D\:\\Projects\\Toolchains\\arm-none-eabi-4_9\\bin;C\:\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1975797325/ST_LINK_CLI/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1975797325/ST_LINK_CLI/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1975797325/ST_LINK_CLI/value=ST-LINK_CLI
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1975797325/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1975797325/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.824595224/ST_LINK_CLI/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.824595224/ST_LINK_CLI/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.824595224/ST_LINK_CLI/value=C\:\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility\\ST-LINK_CLI.exe
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.824595224/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.824595224/appendContributed=true
